@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HYERI%20JUNG&fontSize=90)
 
-<center> 👋 Hi, I’m **Hye-ri Jung** </center>
+## 👋 Hi, I’m **Hye-ri Jung**
  
  ---------------------------------------------------------------------------------------------------------------------
  
