@@ -3,9 +3,10 @@
  👋 Hi, I’m **Hye-ri Jung**
  
 #### 🛠Tech Skills
+Techs that I've used at least once
 ![Tech Python](http://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![Tech JAVA](http://img.shields.io/badge/-JAVA-orange?style=flat-square&logo=java&logoColor=white)
-![Tech C++](http://img.shields.io/badge/-C++-navy?style=flat-square&logo=C++&logoColor=white)
+![Tech C++](http://img.shields.io/badge/-C++-blueviolet?style=flat-square&logoColor=white)
 ![Tech Spring](http://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=spring&logoColor=white)
 ![Tech Oracle](http://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle&logoColor=white)
 
