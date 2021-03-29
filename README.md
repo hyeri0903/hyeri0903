@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HYERI%20JUNG&fontSize=90)
 
-<center>
+<center> 👋 Hi, I’m **Hye-ri Jung** </center>
  
- 👋 Hi, I’m **Hye-ri Jung**
+ ---------------------------------------------------------------------------------------------------------------------
  
 #### 🛠Tech Skills
 Techs that I've used at least once
@@ -25,7 +25,6 @@ Techs that I've used at least once
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeri0903&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</center>
 
 <!---
 hyeri0903/hyeri0903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
