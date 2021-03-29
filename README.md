@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HYERI%20JUNG&fontSize=90)
 
  👋 Hi, I’m **Hye-ri Jung**
-#### 👀 I’m interested in ...
-#### 🌱 I’m currently learning ...
+ 
+#### 🛠Tech Skills
+
+#### 🌱 I’m currently learning and intersted in
   - Python, Data Engineering, Java, Backend, ML/DL
 
 #### 📫 How to reach me ...
