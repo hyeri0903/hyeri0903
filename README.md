@@ -4,7 +4,7 @@
 
 ## 👋 Hi, I’m **Hye-ri Jung**
  
-## 🛠Tech Skills
+### 🛠Tech Skills
 Techs that I've used at least once
 
 ![Tech Python](http://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
@@ -13,10 +13,10 @@ Techs that I've used at least once
 ![Tech Spring](http://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=spring&logoColor=white)
 ![Tech Oracle](http://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle&logoColor=white)
 
-## 🌱 I’m currently learning and intersted in
+### 🌱 I’m currently learning and intersted in
 Data Engineering, Data Analysis, Backend, ML/DL
 
-## 📫 How to reach me 
+### 📫 How to reach me 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyerijung0903@gmail.com)](mailto:hyerijung0903@gmail.com) hyerijung0903@gmail.com 
 
 
