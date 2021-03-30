@@ -18,7 +18,7 @@ Techs that I've used at least once
 Data Engineering, Data Analysis, Backend, ML/DL
 
 ### 📫 How to reach me 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyerijung0903@gmail.com)](mailto:hyerijung0903@gmail.com) hyerijung0903@gmail.com 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyerijung0903@gmail.com)](mailto:hyerijung0903@gmail.com) 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeri0903)](https://github.com/anuraghazra/github-readme-stats)
