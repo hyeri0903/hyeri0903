@@ -12,6 +12,7 @@ Techs that I've used at least once
 ![Tech JAVA](http://img.shields.io/badge/-JAVA-orange?style=flat-square&logo=java&logoColor=white)
 ![Tech SQL](http://img.shields.io/badge/-SQL-pink?style=flat-square&logo=sql&logoColor=white)
 ![Tech C++](http://img.shields.io/badge/-C++-blueviolet?style=flat-square&logoColor=white)
+
 ![Tech Spring](http://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=spring&logoColor=white)
 ![Tech Oracle](http://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle&logoColor=white)
 
