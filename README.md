@@ -15,10 +15,10 @@ Techs that I've used at least once
 
 ![Tech Spring](http://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=spring&logoColor=white)
 ![Tech Oracle](http://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle&logoColor=white)
-
  <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
  
-![Tech Vue.js](http://img.shields.io/badge/-Vue.js-#4FC08D?style=flat-square&logo=oracle&logoColor=white)
+ <img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
+ <img alt="Vuetify" src ="https://img.shields.io/badge/Vuetify-1867C0.svg?&style=for-the-badge&logo=Vuetify&logoColor=white"/>
  
  
  
