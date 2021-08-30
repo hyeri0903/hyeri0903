@@ -17,7 +17,11 @@ Techs that I've used at least once
 ![Tech Oracle](http://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle&logoColor=white)
 ![Tech MySQL](http://img.shields.io/badge/-MySQL-#4479A1?style=flat-square&logo=oracle&logoColor=white)
  
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vue.js</title><path d="M24,1.61H14.06L12,5.16,9.94,1.61H0L12,22.39ZM12,14.08,5.16,2.23H9.59L12,6.41l2.41-4.18h4.43Z"/></svg>
+ 
 ![Tech Vue.js](http://img.shields.io/badge/-Vue.js-#4FC08D?style=flat-square&logo=oracle&logoColor=white)
+ 
+ 
  
 ### 🌱 I’m currently learning and intersted in
 Data Engineering, Data Analysis, Backend, ML/DL
