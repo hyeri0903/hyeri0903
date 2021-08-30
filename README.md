@@ -15,7 +15,10 @@ Techs that I've used at least once
 
 ![Tech Spring](http://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=spring&logoColor=white)
 ![Tech Oracle](http://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle&logoColor=white)
-
+![Tech MySQL](http://img.shields.io/badge/-MySQL-#4479A1?style=flat-square&logo=oracle&logoColor=white)
+ 
+![Tech Vue.js](http://img.shields.io/badge/-Vue.js-#4FC08D?style=flat-square&logo=oracle&logoColor=white)
+ 
 ### 🌱 I’m currently learning and intersted in
 Data Engineering, Data Analysis, Backend, ML/DL
 
