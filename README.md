@@ -23,7 +23,8 @@ Techs that I've used at least once
  
  
 ### 🌱 I’m currently learning and intersted in
-Data Engineering, Data Analysis, Backend, ML/DL
+Backend Develop - Java, Spring
+Frontend - React, Vue
 
 ### 📫 How to reach me 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyerijung0903@gmail.com)](mailto:hyerijung0903@gmail.com) 
