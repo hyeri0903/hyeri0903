@@ -23,7 +23,7 @@ Techs that I've used at least once
  
  
 ### 🌱 I’m currently learning and intersted in
-Backend Develop - Java, Spring
+Backend Develop - Java, Spring <br/>
 Frontend - React, Vue
 
 ### 📫 How to reach me 
